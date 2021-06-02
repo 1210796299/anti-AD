@@ -65,8 +65,7 @@ anti-AD在自我认知上始终是一个非主流的小众项目，受众群体�
 - [ZeroDot1/CoinBlockerLists](https://gitlab.com/ZeroDot1/CoinBlockerLists) - 屏蔽恶意劫持挖矿
 - [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker/) - to block spying and tracking on Windows systems.
 
+## 其他规则
 https://anti-ad.net/easylist.txt
-
-https://banbendalao.coding.net/p ... raw/master/ADgk.txt
-
+https://banbendalao.coding.net/p/adgk/d/ADgk/git/raw/master/ADgk.txt
 https://gitee.com/halflife/list/raw/master/ad.txt
